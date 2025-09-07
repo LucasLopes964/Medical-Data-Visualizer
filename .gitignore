@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.env/
+.idea/
+.vscode/
+*.png
+catplot.png
+heatmap.png
